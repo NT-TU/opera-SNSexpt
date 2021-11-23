@@ -18,6 +18,11 @@ h2{
   text-align:center;
   margin:0 auto;
 }
+a{
+   text-align:center;
+   margin:0 auto;
+}
+
 
 .btn-flat-vertical-border:hover {
   background: #668ad8;
