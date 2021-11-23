@@ -3,6 +3,7 @@ h2{
    margin:0 auto;
 }
 
+
 .btn-flat-vertical-border {
   position: relative;
   display: inline-block;
@@ -14,6 +15,8 @@ h2{
   color: #668ad8;
   background: #e1f3ff;
   transition: .4s;
+  text-align:center;
+  margin:0 auto;
 }
 
 .btn-flat-vertical-border:hover {
